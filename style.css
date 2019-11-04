@@ -1,0 +1,110 @@
+*{
+margin:0px;
+padding: 0px;
+
+}
+
+
+.card{
+
+	padding: 20px;
+
+	width: 20%;
+
+	border-radius: 10px;
+	margin: 12px;
+	box-shadow: 2px 2px 10px black;
+float: left;
+	
+
+}
+.image img{
+	width: 100%;
+	border-radius: 10px;
+
+
+}
+.tittle{
+	text-align: center;
+
+}
+
+.des{
+	text-align: center;
+
+}
+
+.des span{
+	margin-right:  60px;
+	font-weight: bold;
+	font-size: 25px;
+
+}
+.des button{
+	font-size: 20px;
+
+font-weight: bold;
+border-radius: 8px; 
+
+background-color:white;
+border: 3px solid #32CD32;
+padding: 2px;
+
+
+}
+
+button:hover{
+
+
+color: white;
+cursor: pointer;
+background-color: #32CD32;
+transition: .5s;
+
+
+
+}
+/*.card:hover{
+	border: 2px solid #14C8EC;
+	
+}*/
+
+.footer
+    
+    {
+  position: fixed;
+
+	
+	left: 0;
+	bottom:0;
+
+	width: 100%;
+	background-color: #A4A1A1;
+	color: white;
+	
+text-align: center;
+
+
+    } 
+
+
+    .main{
+
+    	padding-bottom: 50px;
+
+
+    }
+
+
+
+    .same{
+    	margin-top: 20px;
+    	font-size: 30px;
+    	color: red;
+    	font-weight: bold;
+
+    	text-align: center;
+
+
+
+    }
